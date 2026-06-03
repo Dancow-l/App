@@ -1,1 +1,1 @@
-# App
+Website https://myjurnals.netlify.app/
